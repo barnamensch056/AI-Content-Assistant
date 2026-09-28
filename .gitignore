@@ -1,0 +1,6 @@
+frontend\node_modules
+backend\.env
+backend\.venv
+backend\.pytest_cache
+backend\content_assistant.db
+frontend\.next
